@@ -1,0 +1,5 @@
+{
+  "name": "Patent Splitter Pro",
+  "description": "A specialized tool for patent professionals to split bulk patent lists into country-specific batch files for RPA/DI systems, featuring AI-powered portfolio analysis.",
+  "requestFramePermissions": []
+}
